@@ -1,0 +1,6 @@
+puts 'Hi, Boss. How are you?'
+puts = gets.chomp
+puts 'I\'m going home early today.'
+puts = gets.chomp
+puts 'I am out of here!'
+puts 'Your fired!'
